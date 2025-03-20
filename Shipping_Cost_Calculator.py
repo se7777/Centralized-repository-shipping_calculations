@@ -11,3 +11,6 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+git push --set-upstream origin shipping_calculator_fixes
+git push --set-upstream origin shipping_calculator_fixes
+git push --set-upstream origin shipping_calculator_fixes
